@@ -1,4 +1,4 @@
-# Idea
+# Smart City Famework
 
 As many different cities in India are trying to achieve the smart city status, reinventing the wheel again and again, I wish to provide a platform and a framework to the government for implementing various levels automation and over-the-air communication and transfer of official documents. The COVID era has caused great hindrance in day to day dealings in many different government agencies, this has forced us to think of a new way to work and implement things using information technology to our advantage. The aim of this project is to simplify and digitize as many things as possible providing convenience to citizens and avoiding huge physical file storages. 
 
